@@ -1,0 +1,25 @@
+#div1{
+    background-color: #dedcdc;
+    display: flex;
+    justify-content: space-between;
+    padding: 20%;
+    border: 3px solid black;
+    border-radius: 5px;
+    
+}
+#btn{
+    display: flex;
+    align-items: center;
+    margin-left: 50%;
+    border-radius: 5px;
+    font: 1em sans-serif;
+}
+#h1{
+    font-style: italic;
+}
+
+#img{
+    height: 50%;
+    width: 20%;
+    margin-left: 40%;
+}
