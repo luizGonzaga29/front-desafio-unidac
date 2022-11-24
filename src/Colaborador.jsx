@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 
-const url = 'http://localhost:8080/colaborador';
+const url = ' https://database-cafe-da-manha.herokuapp.com/colaborador';
 
 function Colaborador() {
 

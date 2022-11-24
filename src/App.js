@@ -6,8 +6,8 @@ import Footer from './components/Footer';
 import Header from './components/Header';
 
 
-const url = 'http://localhost:8080/colaborador/post';
-const url_1 = 'http://localhost:8080/lanche';
+const url = ' https://database-cafe-da-manha.herokuapp.com/colaborador/post';
+const url_1 = ' https://database-cafe-da-manha.herokuapp.com/lanche';
 
 function App() {
 
