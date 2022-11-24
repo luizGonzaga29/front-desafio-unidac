@@ -7,7 +7,15 @@
   margin-left: 35%;
   margin-top: 3%;
 }
-#div{
- 
+#btn1{
+  margin-top: 2%;
+}
+#btn2{
+  margin-top: 4%;
+}
+#btn3{
+  margin-top: 2%;
+  display: flex;
+  margin-left: 90%;
 }
 
