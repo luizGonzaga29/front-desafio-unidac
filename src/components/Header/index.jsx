@@ -10,11 +10,11 @@ function Header(props) {
             <h1 id='h1'>Café da Manhã</h1>
             {
                 cont === '1' &&
-                <Link to={'/colaborador'}  style={{ color: 'inherit', textDecoration: 'inherit' }}><button type='button' id='btn'>Ver colaboradores</button></Link>
+                <Link className='btn' to={'/colaborador'}  style={{ color: 'inherit', textDecoration: 'inherit' }}><button type='button' id='btn'>Ver colaboradores</button></Link>
             }
             {
                 cont === '0' &&
-                <Link to={'/'} style={{ color: 'inherit', textDecoration: 'inherit' }}><button type='button' id='btn'>Voltar</button></Link>
+                <Link className='btn' to={'/'} style={{ color: 'inherit', textDecoration: 'inherit' }}><button type='button' id='btn'>Voltar</button></Link>
             }
             
         </div>
