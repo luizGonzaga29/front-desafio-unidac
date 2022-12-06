@@ -6,8 +6,8 @@ import Footer from './components/Footer';
 import Header from './components/Header';
 
 
-const url = ' https://database-cafe-da-manha.herokuapp.com/colaborador/post';
-const url_1 = ' https://database-cafe-da-manha.herokuapp.com/lanche';
+const url = 'https://back-desafio-unidac-production.up.railway.app/colaborador/post';
+const url_1 = 'https://back-desafio-unidac-production.up.railway.app/lanche';
 
 function App() {
 
