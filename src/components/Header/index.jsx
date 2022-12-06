@@ -14,7 +14,7 @@ function Header(props) {
             }
             {
                 cont === '0' &&
-                <Link to={'/'} style={{ color: 'inherit', textDecoration: 'inherit' }}><button type='button' id='btn'>Voltar cadastro</button></Link>
+                <Link to={'/'} style={{ color: 'inherit', textDecoration: 'inherit' }}><button type='button' id='btn'>Voltar</button></Link>
             }
             
         </div>
